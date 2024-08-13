@@ -1,0 +1,34 @@
+Key metrics à regarder :
+	- Nombre de reclamation 
+	- Montant reclamé
+
+Questions:
+Pour chacune des questions chercher la relation entre 
+l'element principale de la question et nombre reclamation
+respectivement aussi la relation avec le montant reclamé.
+
+- Combien de client avons-nous? done
+
+- Quel est l'age moyen des clients?(le client le plus vieux et celui
+qui est le plus jeune) done
+
+- Quel est le revenue moyen des clients?DONE
+
+- Quels sont les differents niveau d'education des clients?
+
+- Quel est la situation matrimonial de nos clients
+
+- Quel est l'utilisation des differentes voitures ? ( en 
+  fonction du revenue du foyer? )
+
+- Quelles sont les marques les plus utilisés?
+
+- Quelles sont les couleurs les plus utilisés?
+
+- Quel est l'age moyen des voitures? (la voiture la plus vielle
+la voiture la plus jeune)
+
+
+- Quel mode le plus commun
+- Quelle est la voiture la plus vielle
+- Quelle sont les voitures
